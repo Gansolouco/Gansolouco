@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas Vindas ao meu perfil 👋
 
-<!--
-**Gansolouco/Gansolouco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vinicius Melo
 
-Here are some ideas to get you started:
+Estou estudando na Alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na linguagem Javascript
+
+Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos 
+
+### Entre em contato comigo pelo e-mail 
+vinicius.melo.trindade@escola.pr.gov.br
+
+![](https://github.com/Gansolouco/Gansolouco/assets/135143271/b9cf8bf0-ce0a-4ccd-b54d-656450fe1569)
