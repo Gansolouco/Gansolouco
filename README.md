@@ -11,4 +11,4 @@ Ultilizo esse espaço para minha organização e compartilhamento dos meus proje
 ### Entre em contato comigo pelo e-mail 
 vinicius.melo.trindade@escola.pr.gov.br
 
-![](https://github.com/Gansolouco/Gansolouco/assets/135143271/b9cf8bf0-ce0a-4ccd-b54d-656450fe1569)
+![imagem](https://github.com/Gansolouco/Gansolouco/assets/135143271/b9cf8bf0-ce0a-4ccd-b54d-656450fe1569)
